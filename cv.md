@@ -2,8 +2,11 @@
 ## Junior Frontend Developer
 ### Contact information:
 **Phone** <+375293625852>
+
 **E-mail** <dimanhawaikj2@gmail.com>
+
 **Telegram** <https://t.me/Zhdan_D_ke>
+
 ### About me
 
 
@@ -32,3 +35,13 @@ function close() {
     document.querySelector("body").classList.remove("show");
 }
 ```
+
+### Courses:
+* HTML and CSS in <htmlacademy.ru>
+* HTML & CSS Basic, JavaScript Basic in <code-basics.com>
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+### Languages:
+* Russian - Native
+* Belarussian - Intermediate
+* English - Intermediate/Upper-intermediate (according to the online test at <www.efset.org>)
